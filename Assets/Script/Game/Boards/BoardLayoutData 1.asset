@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 846831749474f6e4baffc8ba09de4774, type: 3}
+  m_Name: BoardLayoutData 1
+  m_EditorClassIdentifier: 
+  ID: 1
+  boardSizeX: 3
+  boardSizeY: 3
+  cardsSettings:
+  - actionType: forwardAction
+    count: 3
+  playerStartRotation: 3
+  boardCellsType: 020000000200000002000000010000000000000003000000020000000200000002000000
